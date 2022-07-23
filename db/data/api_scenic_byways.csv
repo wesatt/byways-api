@@ -1,0 +1,43 @@
+id,route_type,route_name,image_path,website1,us_state,website2_state,website2,miles,trip_info,beginning,ending
+1,All-American Roads,Great River Road,,https://www.fhwa.dot.gov/byways/byways/2279,"(Arkansas, Illinois, Iowa, Kentucky, Louisiana, Minnesota, Tennessee, and Wisconsin all received AAR designations, but Mississippi and Missouri did not)",,,2069,,"Itasca State Park, MN","Venice, LA"
+2,All-American Roads,A1A Scenic and Historic Coastal Byway,,https://www.fhwa.dot.gov/byways/byways/2477,FL,,,72,,Ponte Vedra Beach,Summer Haven
+3,All-American Roads,The Battle Road Scenic Byway,,https://battleroadbyway.org/,MA,,,15,,East Arlington,West Concord
+4,All-American Roads,Chesapeake Country Scenic Byway,,https://www.fhwa.dot.gov/byways/byways/2261,MD,,,85.5,,Stevensville,Chesapeake City
+5,All-American Roads,Historic Route 66 Missouri,,https://www.visitmo.com/trip-ideas/route-66-part-one,MO,,,280,,St. Louis,Joplin
+6,All-American Roads,Newfound Gap Road Byway,,https://parkplanning.nps.gov/projectHome.cfm?projectID=51080,NC,TN,https://www.tn.gov/content/dam/tn/tdot/environmental/NewfoundGapRd_CMP_March%202017.pdf,31,Wholly within the Great Smoky Mountains National Park,"Gatlinburg, TN","Cherokee, NC"
+7,All-American Roads,Flaming Gorge – Green River Basin Scenic Byway,,https://www.tourwyoming.com/travel-tools/itineraries/flaming-gorge-scenic-byway-tour,WY,,,150,,Rock Springs,Green River
+8,National Scenic Byways,California Historic Route 66 Needles to Barstow Scenic Byway,,https://www.route66ca.org/,CA,,,178,,Needles,Barstow
+9,National Scenic Byways,Scenic Highway of Legends,,https://www.codot.gov/travel/scenic-byways/southeast/highway-legends,CO,,,82,Extension from Aguilar through San Isabel National Forest to Cuchara Pass,Walsenburg,Trinidad
+10,National Scenic Byways,Silver Thread Colorado Scenic and Historic Byway,,https://www.codot.gov/travel/scenic-byways/south-central/silver-thread,CO,,,117,,Blue Mesa Reservoir,South Fork
+11,National Scenic Byways,Delaware Bayshore Byway,,https://deldot.gov/Programs/byways/index.shtml?dc=route9,DE,,,100,,New Castle,Lewes
+12,National Scenic Byways,River of Lakes Heritage Corridor,,https://riveroflakesheritagecorridor.org/map/,FL,,,156,,Seville,Oak Hill
+13,National Scenic Byways,Scenic Highway 30A,,https://www.fdot.gov/designsupport/highwaybeautification/scenichighways,FL,,,24,,Dune Allen,Inlet Beach
+14,National Scenic Byways,Lincoln Highway Heritage Byway,,https://iowadot.gov/iowasbyways,IA,,,460,,Clinton,Council Bluffs
+15,National Scenic Byways,Whitewater Canal Scenic Byway,,https://visitindiana.com/trip-ideas/26551-you-have-to-see-the-whitewater-canal-scenic-byway,IN,,,76,,Dearborn,Wayne
+16,National Scenic Byways,Old Frankfort Pike Historic and Scenic Byway,,https://transportation.ky.gov/LocalPrograms/Documents/Kentucky%20State%20and%20National%20Scenic%20Byways%20and%20Highways.pdf,KY,,,15.5,,Wolf Run Creek in Fayette County,Duckers Station Road in Woodford County
+17,National Scenic Byways,Boom or Bust Byway,,https://byways.louisianatravel.com/byway/boom-or-bust-national-scenic-byway,LA,,,137,,Lisbon,Vivian
+18,National Scenic Byways,Bayou Teche Scenic Byway,,https://byways.louisianatravel.com/byway/bayou-teche-national-scenic-byway,LA,,,183,,Morgan City,Arnaudville
+19,National Scenic Byways,Mohawk Trail Scenic Byway,,https://www.bywayswestmass.com/byways/mohawk-trail/,MA,,,69,,Greenfield,Williamstown
+20,National Scenic Byways,Old King’s Highway (Route 6A),,https://www.capecodchamber.org/things-to-do/historic-route-6a/,MA,,,62,,Bourne,Provincetown
+21,National Scenic Byways,Katahdin Woods and Waters Scenic Byway,,http://www.exploremaine.org/byways/highlands/katahdinwoods.shtml,ME,,,89,,Baxter State Park at Togue Pond,Baxter State Park at Matagamon
+22,National Scenic Byways,St. John Valley Cultural Byway,,http://www.exploremaine.org/byways/aroostook/stjohnvalley.shtml,ME,,,92,Perfect pair with Fish River Scenic Byway,Dickey,Hamlin
+23,National Scenic Byways,Fish River Scenic Byway,,https://www.exploremaine.org/byways/aroostook/fishriver.shtml,ME,,,37,Perfect pair with St. John Valley Cultural Byway,Portage,Fort Kent
+24,National Scenic Byways,Bold Coast Scenic Byway,,http://www.exploremaine.org/byways/downeast/boldcoast.shtml,ME,,,125,,Eastport,Milbridge
+25,National Scenic Byways,Sandhills Journey Scenic Byway,,https://dot.nebraska.gov/travel/scenic-byways/,NE,,,272,,Grand Island,Alliance
+26,National Scenic Byways,Lincoln Highway Scenic and Historic Byway,,https://dot.nebraska.gov/travel/scenic-byways/,NE,,,400,,Eastern border of NE (Omaha),Western border of NE (Kimball)
+27,National Scenic Byways,Western Highlands Scenic Byway,,https://www.state.nj.us/transportation/community/scenic/western.shtm,NJ,,,23,,Stockholm,NY/NJ Border near DeKays
+28,National Scenic Byways,Bayshore Heritage Byway,,https://www.state.nj.us/transportation/community/scenic/bayshore.shtm,NJ,,,142,,Cape May,Carneys Point Township
+29,National Scenic Byways,Palisades Scenic Byway,,https://www.state.nj.us/transportation/community/scenic/palisades.shtm,NJ,,,42,,George Washington Bridge (NJ side),Bear Mountain State Park (NY)
+30,National Scenic Byways,Pine Barrens Byway,,https://www.state.nj.us/transportation/community/scenic/pinelands.shtm,NJ,,,130,,Tuckerton,Port Elizabeth
+31,National Scenic Byways,Trail of the Ancients Scenic Byway,,https://www.newmexico.org/places-to-visit/scenic-byways/trail-of-the-ancients/,NM,,,,,Chaco Culture National Historical Park,Farmington
+32,National Scenic Byways,Palisades Scenic Byway,,https://www.dot.ny.gov/display/programs/scenic-byways/palisades,NY,,,26.58,(NY section only),George Washington Bridge (NJ side),Bear Mountain State Park (NY)
+33,National Scenic Byways,Hocking Hills Scenic Byway,,https://www.transportation.ohio.gov/wps/portal/gov/odot/traveling/ohio-byways/hocking-hills,OH,,,26.4,,Rockbridge,Hocking Hills State Park at Ash Cave
+34,National Scenic Byways,Brandywine Valley Scenic Byway,,https://www.penndot.gov/PennDOTWay/Pages/Article.aspx?post=417,PA,,,25,,Delaware state line,Delaware state line
+35,National Scenic Byways,Revolutionary Heritage Byway,,https://cicilline.house.gov/press-release/bristol%E2%80%99s-%E2%80%9Crevolutionary-heritage-byway%E2%80%9D-awarded-national-distinction-becomes-ri%E2%80%99s,RI,,,6,In Bristol: State Route 114 (Hope St and Ferry Rd) and High St from the Warren Town Line to Mt. Hope Bridge,,
+36,National Scenic Byways,Sequatchie Valley Scenic Byway,,https://www.tn.gov/content/dam/tn/tdot/environmental/Sequatchie%20Valley%20CMP.pdf,TN,,,80,"Through Marion, Sequatchie, and Bledsoe counties along US 127 through Crossville in Cumberland County, eventually connecting to Interstate 40",,
+37,National Scenic Byways,Cumberland Historic Byway,,http://cumberlandhistoricbyway.com/,TN,,,200,,Clay,Cumberland
+38,National Scenic Byways,Norris Freeway,,https://www.tn.gov/tdot/news/2021/2/23/five-tennessee-routes-earn-federal-scenic-designation.html,TN,,,,Knoxville: Town of Norris and Norris Dam State Park,,
+39,National Scenic Byways,Zion Scenic Byway,,https://travel.utah.gov/wp-content/uploads/UOT-17_ScenicByways_Guide_digital.pdf,UT,,,57,,La Verkin,East Entrance of Zion National Park
+40,National Scenic Byways,Cascade Loop,,https://www.cascadeloop.com/,WA,,,440,Loop: Mukilteo to Whidbey Island and back to Mukilteo,,
+41,National Scenic Byways,Door County Coastal Byway,,https://wisconsindot.gov/Pages/travel/road/scenic-ways/byways.aspx,WI,,,66,Loop: Sturgeon Bay,,
+42,National Scenic Byways,Wisconsin Lake Superior Scenic Byway,,https://wisconsindot.gov/Pages/travel/road/scenic-ways/byways.aspx,WI,,,70,,Barksdale,Cloverland
